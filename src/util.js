@@ -60,7 +60,7 @@ function chillHop() {
       audio: "https://mp3.chillhop.com/serve.php/?mp3=51088",
       color: ["#205950", "#FFFFFF"],
       id: uuidv4(),
-      active: true,
+      active: false,
     },
     {
       name: "In the Night",
